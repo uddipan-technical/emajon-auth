@@ -1,10 +1,9 @@
 const firebaseConfig = {
-    apiKey: "AIzaSyBHhOX8rtp2vahVcATkhTD_7CwARw6arrk",
-    authDomain: "fire-auth2.firebaseapp.com",
-    databaseURL: "https://fire-auth2.firebaseio.com",
-    projectId: "fire-auth2",
-    storageBucket: "fire-auth2.appspot.com",
-    messagingSenderId: "587131087182",
-    appId: "1:587131087182:web:f7e53e9007fe7760d7561f"
+  apiKey: "AIzaSyCrknJa5P2Xk1gvfeFYqZhbHjlz7yHM5m0",
+  authDomain: "assignmentnine-8b45d.firebaseapp.com",
+  projectId: "assignmentnine-8b45d",
+  storageBucket: "assignmentnine-8b45d.appspot.com",
+  messagingSenderId: "688595216896",
+  appId: "1:688595216896:web:4fe038da00436b29d0c6e5"
   };
-  export default firebaseConfig;
+export default firebaseConfig;
